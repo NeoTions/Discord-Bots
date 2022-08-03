@@ -1,0 +1,15 @@
+— start / stop server
+
+— manage backups (stop server every night and make dated backup)
+
+— field queries from discord commands for:
+
+    - dm for ip
+    - players online
+    - active status
+    - player deaths (for hardcore)
+    - whitelisting/blacklisting
+    - stop server
+    - server diagnostics
+    
+    
