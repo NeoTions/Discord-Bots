@@ -1,3 +1,4 @@
+# hello there
 # discord server management bot
 import discord
 from discord.ext import commands
